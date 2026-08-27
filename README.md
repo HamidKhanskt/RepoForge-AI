@@ -1,3 +1,12 @@
+
+<img width="1449" height="465" alt="Screenshot 2026-08-26 at 9 08 15 PM" src="https://github.com/user-attachments/assets/aaeb690a-67be-46f5-a6a2-1ca5145ac124" />
+
+<img width="1424" height="455" alt="Screenshot 2026-08-26 at 9 08 25 PM" src="https://github.com/user-attachments/assets/f39b43d7-3239-42e7-ac18-cbfde8622c2d" />
+
+<img width="1412" height="575" alt="Screenshot 2026-08-26 at 9 08 32 PM" src="https://github.com/user-attachments/assets/38b4e1e4-e56d-40d7-8f5f-d530049aabf6" />
+
+<img width="1126" height="303" alt="Screenshot 2026-08-26 at 9 08 42 PM" src="https://github.com/user-attachments/assets/3b5cfa81-4e2c-42e4-b0a4-e18903179b48" />
+
 # ⚡ RepoForge-AI
 
 ### Evidence-Driven Agentic AI for Repository Analysis, Optimization & Verification
